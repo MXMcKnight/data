@@ -1,0 +1,127 @@
+state_fips,county_fips,year,county,state,number_of_cases
+23,23007,2004,Franklin,Maine,1
+36,36119,2005,Westchester,New York,1
+55,55073,2006,Marathon,Wisconsin,1
+36,36049,2007,Lewis,New York,1
+36,36023,2007,Cortland,New York,1
+36,36079,2007,Putnam,New York,1
+36,36119,2007,Westchester,New York,3
+55,55059,2007,Kenosha,Wisconsin,1
+27,27021,2008,Cass,Minnesota,1
+36,36119,2008,Westchester,New York,1
+51,51059,2009,Fairfax,Virginia,1
+27,27021,2009,Cass,Minnesota,1
+27,27053,2009,Hennepin,Minnesota,1
+36,36053,2009,Madison,New York,1
+36,36027,2009,Dutchess,New York,1
+36,36079,2009,Putnam,New York,1
+27,27061,2010,Itasca,Minnesota,1
+27,27017,2010,Carlton,Minnesota,1
+27,27065,2010,Kanabec,Minnesota,1
+36,36079,2010,Putnam,New York,1
+55,55031,2010,Douglas,Wisconsin,1
+55,27119,2010,Polk,Wisconsin,1
+55,55113,2010,Sawyer,Wisconsin,1
+55,55141,2010,Wood,Wisconsin,1
+27,27007,2011,Beltrami,Minnesota,2
+27,27005,2011,Becker,Minnesota,1
+27,27061,2011,Itasca,Minnesota,1
+27,27021,2011,Cass,Minnesota,1
+27,27001,2011,Aitkin,Minnesota,1
+27,27115,2011,Pine,Minnesota,1
+27,27003,2011,Anoka,Minnesota,3
+27,27035,2011,Crow Wing,Minnesota,1
+42,42069,2011,Lackawanna,Pennsylvania,1
+42,42065,2011,Jefferson,Pennsylvania ,1
+55,27119,2011,Polk,Wisconsin,1
+55,38025,2011,Dunn,Wisconsin,1
+55,55073,2011,Marathon,Wisconsin,1
+27,27057,2012,Hubbard,Minnesota,2
+27,27061,2012,Itasca,Minnesota,1
+27,27053,2012,Hennepin,Minnesota,1
+36,36027,2012,Dutchess,New York,1
+55,55031,2012,Douglas,Wisconsin,1
+55,55097,2012,Portage,Wisconsin,1
+23,23013,2013,Knox,Maine,1
+25,25017,2013,Middlesex,Massachusetts,1
+27,27137,2013,St Louis,Minnesota,1
+33,33011,2013,Hillsborough,New Hampshire,1
+34,34041,2013,Warren,New Jersey,1
+36,36091,2013,Saratoga,New York,1
+36,36027,2013,Dutchess,New York,1
+36,36079,2013,Putnam,New York,3
+55,55069,2013,Lincoln,Wisconsin,1
+55,55073,2013,Marathon,Wisconsin,1
+55,55035,2013,Eau Claire,Wisconsin,1
+55,55053,2013,Jackson,Wisconsin,1
+55,55079,2013,Milwaukee,Wisconsin,1
+25,25009,2014,Essex,Massachusetts,1
+25,25017,2014,Middlesex,Massachusetts,2
+25,25001,2014,Barnstable,Massachusetts,1
+34,34037,2014,Sussex,New Jersey,1
+36,36079,2014,Putnam,New York,1
+55,55085,2014,Oneida,Wisconsin,1
+55,55097,2014,Portage,Wisconsin,1
+23,23005,2015,Cumberland,Maine,1
+25,25017,2015,Middlesex,Massachusetts,1
+25,25021,2015,Norfolk,Massachusetts,1
+25,25001,2015,Barnstable,Massachusetts,1
+34,34037,2015,Sussex,New Jersey,1
+36,36119,2015,Westchester,New York,1
+55,55059,2015,Kenosha,Wisconsin,1
+9,9011,2016,New London,Connecticut,1
+23,23005,2016,Cumberland,Maine,1
+25,25001,2016,Barnstable,Massachusetts,2
+25,25017,2016,Middlesex,Massachusetts,1
+25,25009,2016,Essex,Massachusetts,2
+27,27075,2016,Lake,Minnesota,2
+27,27137,2016,St Louis,Minnesota,1
+27,27003,2016,Anoka,Minnesota,1
+27,27157,2016,Wabasha,Minnesota,1
+33,33015,2016,Rockingham,New Hampshire,1
+36,36119,2016,Westchester,New York,1
+36,36027,2016,Dutchess,New York,1
+37,37081,2016,Guilford,North Carolina,1
+44,44007,2016,Providence,Rhode Island ,1
+55,55007,2016,Bayfield,Wisconsin,1
+55,55037,2016,Florence,Wisconsin,1
+55,55123,2016,Vernon,Wisconsin,1
+55,55121,2016,Trempealeau,Wisconsin,1
+55,55041,2016,Forest,Wisconsin,1
+23,23005,2017,Cumberland,Maine,1
+23,23013,2017,Knox,Maine,2
+25,25013,2017,Hampden,Massachusetts,1
+25,25017,2017,Middlesex,Massachusetts,1
+25,25009,2017,Essex,Massachusetts,1
+27,27097,2017,Morrison,Minnesota,2
+27,27001,2017,Aitkin,Minnesota,1
+27,27037,2017,Dakota,Minnesota,1
+27,27061,2017,Itasca,Minnesota,3
+33,33017,2017,Strafford,New Hampshire,1
+34,34037,2017,Sussex,New Jersey,2
+34,34027,2017,Morris,New Jersey,1
+34,25009,2017,Essex,New Jersey,1
+36,36079,2017,Putnam,New York,1
+36,36027,2017,Dutchess,New York,1
+36,36039,2017,Greene,New York,1
+36,36091,2017,Saratoga,New York,3
+38,27021,2017,Cass,North Dakota,1
+42,42115,2017,Susquehanna,Pennsylvania ,1
+42,42103,2017,Pike,Pennsylvania ,1
+42,42095,2017,Northampton,Pennsylvania ,1
+42,42077,2017,Lehigh,Pennsylvania ,1
+44,44009,2017,Washington,Rhode Island ,2
+55,55069,2017,Lincoln,Wisconsin,1
+55,55073,2017,Marathon,Wisconsin,1
+55,55135,2017,Waupaca,Wisconsin,1
+9,9007,2018,Middlesex,Connecticut,1
+9,9015,2018,Windham,Connecticut,1
+25,25017,2018,Middlesex,Massachusetts,2
+25,25009,2018,Essex,Massachusetts,3
+27,27057,2018,Hubbard,Minnesota,1
+27,27141,2018,Sherburne,Minnesota,1
+27,27123,2018,Ramsey,Minnesota,1
+36,36011,2018,Cayuga,New York,1
+36,36021,2018,Columbia,New York,1
+36,36027,2018,Dutchess,New York,1
+55,55035,2018,Eau Claire,Wisconsin,1
